@@ -52,6 +52,7 @@
     <div class="section reduced-padding less-padding bg-gray-3">
       <div class="main-container">
         <div class="logo-row">
+            <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/Great-Place-To-Work.svg" alt="" class="logo-row-item" />
             <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/hitachi.png" alt="" class="logo-row-item" />
             <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/Aiko.png" alt="" class="logo-row-item" />
             <img src="../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/sls_production.png" class="logo-row-item" /> 

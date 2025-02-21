@@ -13,7 +13,7 @@
   <div class="search-modal"><img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
-      <form action="https://www.handypro.com/search" class="form-horizontal w-form">
+      <form action="#" class="form-horizontal w-form">
         <input class="form-input w-input"
           maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" />
           <input type="submit" class="button form-horizontal-button w-button" value="Search" />
@@ -92,18 +92,18 @@
 
                   </div>
                   <input  id="HandyPro-Newsletter" type="checkbox" name="HandyPro-Newsletter" data-name="HandyPro Newsletter"  style="opacity:0;position:absolute;z-index:-1" />
-                    <span for="HandyPro-Newsletter"  class="selectable-label w-form-label">HandyPro Newsletter</span>
+                    <span for="HandyPro-Newsletter"  class="selectable-label w-form-label">Purple Bricks Newsletter</span>
                 </label>
                 <label id="w-node-_49eb7f2a-8ae9-b999-8965-2f828dc4b2c5-87d0e2c9"  class="w-checkbox selectable-field">
                   <div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox">
                   </div>
-                  <input   id="50-Gift-Certificate" type="checkbox" name="50-Gift-Certificate" data-name="$50 Gift Certificate"  style="opacity:0;position:absolute;z-index:-1" />
-                    <span for="50-Gift-Certificate"  class="selectable-label w-form-label">I would like to instantly receive a $50 Gift Certificate for any job over $250! (For participating locations only)</span>
+                  <input   id="50-Gift-Certificate" type="checkbox" name="50-Gift-Certificate" data-name="AED100 Gift Certificate"  style="opacity:0;position:absolute;z-index:-1" />
+                    <span for="50-Gift-Certificate"  class="selectable-label w-form-label">I would like to instantly receive a AED100 Gift Certificate for any job over AED1000! (For participating locations only)</span>
                 </label><label id="w-node-_9b2618ad-2e82-bfbd-f6d0-93a3ae1ba9d9-87d0e2c9"  class="w-checkbox selectable-field">
                   <div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox">
                   </div>
                   <input type="checkbox"  name="I-agree-to-receive-messaging" id="I-agree-to-receive-messaging" data-name="I agree to receive messaging" style="opacity:0;position:absolute;z-index:-1" />
-                    <span for="I-agree-to-receive-messaging" class="selectable-label w-form-label">I agree to receive  messaging from HandyPro at the phone number provided above. Data rates may apply, reply STOP to opt
+                    <span for="I-agree-to-receive-messaging" class="selectable-label w-form-label">I agree to receive  messaging from PurpleBricks at the phone number provided above. Data rates may apply, reply STOP to opt
                     out.</span>
                 </label><input type="submit" data-wait="Please wait..." id="w-node-f116c3ad-ea31-d300-24a9-7809979f8d35-87d0e2c9" class="button w-button" value="Submit" />
               </form>
@@ -136,7 +136,7 @@
               </div>
               <div class="justify-content-left">
                 <h4>Social Media</h4>
-                <div class="social-media-buttons"><a href="https://www.facebook.com/HandyProFans" target="_blank"
+                <div class="social-media-buttons"><a href="#" target="_blank"
                     class="button-round button-round-small social-media-button w-inline-block">
                     <div class="icon-embed-xxsmall w-embed"><svg xmlns="http://www.w3.org/2000/svg"
                         xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
@@ -146,7 +146,7 @@
                           d="M13.397 20.997v-8.196h2.765l.411-3.209h-3.176V7.548c0-.926.258-1.56 1.587-1.56h1.684V3.127A22.336 22.336 0 0 0 14.201 3c-2.444 0-4.122 1.492-4.122 4.231v2.355H7.332v3.209h2.753v8.202h3.312z"
                           fill="currentColor"></path>
                       </svg></div>
-                  </a><a href="https://www.youtube.com/@HandyPros" target="_blank"
+                  </a><a href="#" target="_blank"
                     class="button-round button-round-small social-media-button w-inline-block"><img
                       src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e161_youtube.svg"
                       alt="" class="social-icon-small" /></a></div>

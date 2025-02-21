@@ -233,15 +233,15 @@
                 <nav class="dropdown-list w-dropdown-list">
                   <div class="w-layout-grid dropdown-grid">
                     <a href="our-story.php" class="dropdown-link w-dropdown-link">Our Story</a>
-                    <a href="our-story/become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
+                    <a href="become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
                     
                    
                     <a href="faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
                     <a href="project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
                     <a href="in-the-news.php"  class="dropdown-link hide w-dropdown-link">Meet The Team</a>
-                    <a href="our-story/in-the-news.php"  class="dropdown-link w-dropdown-link">In The News</a>
-                    <a href="our-story/video-center.php"  class="dropdown-link w-dropdown-link">Video Center</a>
-                    <a href="our-story/blog.php"  class="dropdown-link w-dropdown-link">Blog</a>
+                    
+                    
+                    <a href="blog.php"  class="dropdown-link w-dropdown-link">Blog</a>
                     <a href="special-offers.php"  class="dropdown-link w-dropdown-link">Special Offers</a>
                   </div>
                 </nav>
@@ -266,9 +266,7 @@
                               loading="lazy" sizes="100vw"
                               srcset="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-500.webp 500w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-800.webp 800w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%2520Copy%25202%2520(1)-p-1600.webp 1600w, https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbb584fb45dfb2ea2d613f_Artboard%20Copy%202%20(1).webp 2000w"
                               alt="Pioneer E-Boost Blog" class="navigation-card-image" />
-                            <div class="b-navigation-card-title-wrapper">
-                              <div class="h5-heading">In The News</div>
-                            </div>
+                            
                           </div>
                         </a><a href="#" class="navigation-video-block w-inline-block">
                           <div id="w-node-bb1b843b-4cd9-ccff-cad7-c08d0cb9f618-9d0a7cb6" class="navigation-video-card">
@@ -291,13 +289,13 @@
                         <div class="w-layout-grid dropdown-grid">
                           <div class="dropdown-grid-column">
                             <a href="our-story.php"  class="dropdown-link w-dropdown-link">Our Story</a>
-                            <a  href="our-story/become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
+                            <a  href="become-a-craftsman.php" class="dropdown-link w-dropdown-link">Become a Craftsman</a>
                             <a  href="faqs.php" class="dropdown-link w-dropdown-link">FAQ&#x27;s</a>
-                            <a  href="our-story/project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
+                            <a  href="project-gallery.php" class="dropdown-link w-dropdown-link">Project Gallery</a>
                           </div>
                           <div class="dropdown-grid-column">
                             <a href="#" class="dropdown-link w-dropdown-link">In The  News</a>
-                            <a href="our-story/video-center.php" class="dropdown-link w-dropdown-link">Video  Center</a>
+                            
                             <a href="#" class="dropdown-link w-dropdown-link">Blog</a>
                             <a href="#"  class="dropdown-link w-dropdown-link">Special Offers</a>
                             
