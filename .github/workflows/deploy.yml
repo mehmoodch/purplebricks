@@ -13,8 +13,8 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Sync Files to Shared Hosting via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4
+      - name: Deploy to Shared Hosting via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4  # Updated version
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
