@@ -10,7 +10,7 @@ include'header.php';
   <?php
   include'nav.php';
   ?>
-  <div class="mob-cta-wrapper-2"><a href="https://book.handypro.com/?sid=1619799557&amp;sid=1619799557" target="_blank"
+  <div class="mob-cta-wrapper-2"><a href="contact-us.php" target="_blank"
       class="button w-inline-block">
       <div> Book Now</div>
     </a></div>
@@ -19,7 +19,7 @@ include'header.php';
       class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
-      <form action="https://www.handypro.com/search" class="form-horizontal w-form"><input class="form-input w-input"
+      <form action="https://www.purplebricks.ae/search" class="form-horizontal w-form"><input class="form-input w-input"
           maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
           type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
     </div>
@@ -27,10 +27,10 @@ include'header.php';
   <div class="page-wrapper bg-gray-3">
     <header id="Page-Header" class="section bg-gray-3">
       <div class="main-container">
-        <div class="home-modification-handyman-services no-margin"><span class="text-span">Handy</span>Pro<sup>®</sup>
+        <div class="home-modification-handyman-services no-margin"><span class="text-span">Purple</span>Bricks<sup>®</sup>
           <span class="text-span"></span></div>
-        <h1 class="display-heading-2">HandyPro FAQs</h1>
-        <div class="text-large">Read our frequently asked questions. HandyPro offers residential and commercial handyman
+        <h1 class="display-heading-2">PurpleBricks FAQs</h1>
+        <div class="text-large">Read our frequently asked questions. PurpleBricks offers residential and commercial handyman
           services as well as home modifications. </div>
       </div>
     </header>

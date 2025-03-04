@@ -92,23 +92,24 @@
               <div class="w-layout-grid footer-2-menus-grid">
                 <div id="w-node-_1b05cfd5-a7aa-77bf-6a08-b2e99d3b08d1-9d3b08c6">
                   <h2 class="footer-menu-heading">Services</h2>
-                  <div class="w-layout-grid menu-grid-vertical"><a
-                      href="local-service/farmington-hills-tv-mounting-installation.php" class="hover-link"> False Ceiling & Light Partition Installation</a>
-                      <a href="services/drywall-repair.php" class="hover-link"> Painting Contracting</a>
-                      <a href="services/home-modification.php" class="hover-link"> Plaster Works</a>
-                      <a href="services/handyman-services.php" class="hover-link">Carpentry</a>
-                      <a href="services/furniture-assembly.php" class="hover-link"> Floor & Wall Tiling Work</a>
-                      <a href="service-categories/commercial-services.php" class="hover-link"> Electrical lighting & Fixtures Services</a>
-                      <a href="services/painting.php" class="hover-link"> Exterior Painting & Coating</a>
-                      <a href="services/painting.php" class="hover-link"> Mechanical, Electrical & Plumbing (MEP)</a>
-                      <a href="services/painting.php" class="hover-link"> Plumbing and Sanitary Contracting</a>
-                      <a href="services/painting.php" class="hover-link"> Electrical Fitting & Fixtures Services</a>
-                      <a id="w-node-_91cb5c43-b131-cc34-f372-8c2097e87bfb-9d3b08c6" href="services/electrical-lighting.php" class="hover-link"> Solar Panel Installation & Maintenance</a>
+                  <div class="w-layout-grid menu-grid-vertical">
+                      <a href="false-ceiling.php" class="hover-link"> False Ceiling & Light Partition Installation</a>
+                      <a href="painting.php" class="hover-link"> Painting Contracting</a>
+                      <a href="plaster-work.php" class="hover-link"> Plaster Works</a>
+                      <a href="carpentry.php" class="hover-link">Carpentry</a>
+                      <a href="tiling.php" class="hover-link"> Floor & Wall Tiling Work</a>
+                      <a href="hvac.php" class="hover-link"> AC, Ventilation & Air Filtration Services</a>
+                      <a href="swimming-pool.php" class="hover-link"> Swimming Pool Installation </a>
+                      <a href="tank-cleaning.php" class="hover-link"> Tanks & Container Cleaning</a>
+                      <a href="plumbing-fixtures.php" class="hover-link"> Plumbing and Sanitary Contracting</a>
+                      <a href="cleaning.php" class="hover-link"> Other Cleaning Services</a>
+                      <a id="w-node-_91cb5c43-b131-cc34-f372-8c2097e87bfb-9d3b08c6" href="solar-panel.php" class="hover-link"> Solar Panel Installation & Maintenance</a>
                   </div>
                 </div>
                 <div>
                   <h2 class="footer-menu-heading">Locations</h2>
-                  <div class="w-layout-grid menu-grid-vertical"><a href="#"  class="hover-link">Business Bay</a>
+                  <div class="w-layout-grid menu-grid-vertical">
+                  <a href="#"  class="hover-link">Business Bay</a>
                   <a href="#" class="hover-link">Al Barsha</a>
                   <a href="#" class="hover-link">Jumairah Village Circle</a>
                   <a href="#" class="hover-link">JLT</a>
@@ -136,39 +137,44 @@
                 <span><strong>🌐 Website:</strong></span> <a href="https://www.purplebricks.ae" target="_blank">purplebricks.ae </a> <br></br>
                 <span><strong>📍 Office Address:</strong></span> Office # 706, Regal Tower, Business Bay Dubai, UAE. <br></br>
                 <span><strong>⏰ Office Hours:</strong></span> Monday - Saturday: 9:00 AM - 6:00 PM <br></br>
-                <span><strong>📩 Send Your Inquiry: </strong></span>  <a href="#" target="_blank">Click Here </a>
+                <span><strong>📩 Send Your Inquiry: </strong></span>  <a href="../contact-us.php" target="_blank">Click Here </a>
+                
+                
+
               </div>
-            </div>                      
+            </div>                  
+                  
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div class="footer-bottom-row">
-          <div class="footer-bottom-links"><a href="privacy-policy.php" class="row-link">Privacy Policy</a><a
-              href="terms-of-use.php" class="row-link">Terms of Use</a><a href="accessibility.php"
-              class="row-link">Accessibility</a><a href="disclaimer.php" class="row-link">Disclaimer</a><a
-              href="site-map.php" class="row-link">Site Map</a></div>
+          <div class="footer-bottom-links">
+            <a href="../privacy-policy.php" class="row-link">Privacy Policy</a>
+            <a href="../terms-of-use.php" class="row-link">Terms of Use</a>
+            <a href="../accessibility.php"  class="row-link">Accessibility</a>
+            <a href="../disclaimer.php" class="row-link">Disclaimer</a>
+            <a href="../site-map.php" class="row-link">Site Map</a></div>
         </div>
-
+        
         <div class="footer-bottom-row second">
           <div><a href="index.php" aria-current="page" class="w--current"><span class="handyman">Purple Bricks Technical Services LLC</span></a>
              © 2025 All rights reserved. | <a href="privacy-policy.php">Privacy Policy</a> | <a href="terms-of-service.php">Terms of Service</a>
             </div>
-          </div>
-        
+        </div>
       </div>
     </footer>
     <div class="alert-bar">
       <div class="alert-bar-text">Here&#x27;s a dismissible notice for cookies notices etc.</div>
-      <div class="alert-bar-dismiss"><a href="#" class="button bg-gray-3 button-small w-inline-block">
+      <div class="alert-bar-dismiss">
+        <a href="#" class="button bg-gray-3 button-small w-inline-block">
           <div>Dismiss</div>
-        </a></div>
+        </a>
+      </div>
     </div>
-  </div>
-  <div class="search-modal"><img
-        src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt=""
-        class="search-modal-cross" />
+    <div class="search-modal">
+      <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
       <div class="container-large">
         <h4 class="large-heading">Search</h4>
         <form action="https://purplebricks.ae/en/search" class="form-horizontal w-form"><input class="form-input w-input"
@@ -178,22 +184,21 @@
     </div>
   </div>
   <script src="../../d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c89101.js?site=64c93da6f9f661cffa20dfee" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
-  </script>
-  <script src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js"
-    type="text/javascript"></script>
-    
+  </script>  
+  <script src="../../cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/js/handypro.1b2f4fff.cec9473d751b51ef.js" type="text/javascript"></script>
+  <!--Start of Tawk.to Script-->
   <!--Start of Tawk.to Script-->
   <script type="text/javascript">
-    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-    (function () {
-      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-      s1.async = true;
-      s1.src = 'https://embed.tawk.to/5ec6a942c75cbf1769ee22d1/1e9b4r8h8';
-      s1.charset = 'UTF-8';
-      s1.setAttribute('crossorigin', '*');
-      s0.parentNode.insertBefore(s1, s0);
-    })();
-  </script>
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/67b5e5d1c756b2190a98393b/1ikf8jfe9';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>
   <!--End of Tawk.to Script-->
   <!-- Google Tag Manager (noscript) -->
   <noscript>

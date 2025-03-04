@@ -15,7 +15,7 @@ include 'header.php';
 	<div class="mob-cta-wrapper-2">
     <a href="contact-us.php" target="_blank" class="button w-button">Apply Now</a></div>
 	<section class="breadcrumb-section">
-		<div class="breadcrumb-wrapper"><a href="../index.html" class="breadcrumb-home w-inline-block">
+		<div class="breadcrumb-wrapper"><a href="../index.php" class="breadcrumb-home w-inline-block">
 				<div class="breadcrumb-home-svg w-embed"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path d="M18.6668 18.6668C18.6668 18.8878 18.579 19.0997 18.4228 19.256C18.2665 19.4123 18.0545 19.5001 17.8335 19.5001H6.16683C5.94582 19.5001 5.73385 19.4123 5.57757 19.256C5.42129 19.0997 5.3335 18.8878 5.3335 18.6668V11.1668H2.8335L11.4393 3.34343C11.5928 3.20383 11.7927 3.12646 12.0002 3.12646C12.2076 3.12646 12.4076 3.20383 12.561 3.34343L21.1668 11.1668H18.6668V18.6668ZM11.1668 12.8334V17.8334H12.8335V12.8334H11.1668Z" fill="currentColor" />
 					</svg></div>
@@ -27,7 +27,7 @@ include 'header.php';
 			</a>
 			<div class="breadcrumb-seperator w-embed"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 					<path d="M20 8L11 23.5885" stroke="currentColor" stroke-width="1.5" />
-				</svg></div><a href="become-a-craftsman.html" aria-current="page" class="breadcrumb-link w-inline-block w--current">
+				</svg></div><a href="become-a-craftsman.php" aria-current="page" class="breadcrumb-link w-inline-block w--current">
 				<div>Become a Craftsman</div>
 			</a>
 		</div>
@@ -197,7 +197,8 @@ include 'header.php';
 							<li>Wish to work with a well-established company that offers flexibility and benefits</li>
 						</ul>
 						<h3>Our Commitment to Ethical Standards</h3>
-						<p>When PurpleBricks was founded, owners Keith and Deb quickly realized the need for a company where craftsmen could be treated with respect, paid fairly, and valued for their skills. They envisioned a workplace built on trust and appreciation for artisans. To uphold these values, they introduced a <a href="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfc2e41e2774d101c6eb4d_HPG-Code-of-Ethics-Final.docx.pdf" target="_blank">Code of Ethics</a>. This commitment led them to expand the company nationally, benefiting both homeowners and skilled craftsmen.</p>
+						<p>When PurpleBricks was founded, owners Keith and Deb quickly realized the need for a company where craftsmen could be treated with respect, paid fairly, and valued for their skills. They envisioned a workplace built on trust and appreciation for artisans. 
+							To uphold these values, they introduced a <a href="#" target="_blank">Code of Ethics</a>. This commitment led them to expand the company nationally, benefiting both homeowners and skilled craftsmen.</p>
 					</div>
 				</div>
 			</div>

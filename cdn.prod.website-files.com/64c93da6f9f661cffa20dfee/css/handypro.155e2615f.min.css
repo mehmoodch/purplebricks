@@ -3052,7 +3052,7 @@ figcaption {
 
 .display-heading-1 {
   font-family: Montserrat, sans-serif;
-  font-size: 4.5vw;
+  font-size: 3.5vw;
   font-weight: 700;
   line-height: 5vw
 }
@@ -9258,7 +9258,7 @@ figcaption {
 }
 
 .project-image {
-  background-image: url(https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dbcbee86a027d63b84730a_architecture-beautiful-exterior-106399.webp);
+  
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;

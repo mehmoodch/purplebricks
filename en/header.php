@@ -11,14 +11,14 @@
     name="description" />
   <meta content="Home Modification &amp; Handyman Services" property="og:title" />
   <meta
-    content="rashedmts offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
+    content="Purple Bricks offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
     property="og:description" />
   <meta
     content="Find the best Handyman for residential &amp;amp; commercial home services. Get a quote now and make your home perfect with our expert services!"
     property="og:image" />
   <meta content="Home Modification &amp; Handyman Services" property="twitter:title" />
   <meta
-    content="rashedmts offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
+    content="Purple Bricks offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
     property="twitter:description" />
   <meta
     content="Find the best Handyman for residential &amp;amp; commercial home services. Get a quote now and make your home perfect with our expert services!"

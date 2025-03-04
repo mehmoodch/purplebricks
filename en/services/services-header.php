@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html data-wf-domain="https://rashedmts.ae/en/index.php" data-wf-page="65fd82d8b2eb03f687d0e205"  data-wf-site="64c93da6f9f661cffa20dfee" lang="en">
+<html data-wf-domain="https://Purple Bricks.ae/en/index.php" data-wf-page="65fd82d8b2eb03f687d0e205"  data-wf-site="64c93da6f9f661cffa20dfee" lang="en">
 <head>
   <meta charset="utf-8" />
   <title>Handyman Residential &amp; Commercial Specialist Home Modification Services</title>
   <meta content="Find the best Handyman for residential &amp;amp; commercial home services. Get a quote now and make your home perfect with our expert services!" name="description" />
   <meta content="Home Modification &amp; Handyman Services" property="og:title" />
-  <meta content="rashedmts offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!" property="og:description" />
+  <meta content="Purple Bricks offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!" property="og:description" />
   <meta content="Find the best Handyman for residential &amp;amp; commercial home services. Get a quote now and make your home perfect with our expert services!"
     property="og:image" />
   <meta content="Home Modification &amp; Handyman Services" property="twitter:title" />
-  <meta content="rashedmts offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
+  <meta content="Purple Bricks offers reliable and affordable home modification and handyman services backed by over 25 years of experience. Schedule your service today!"
     property="twitter:description" />
   <meta content="Find the best Handyman for residential &amp;amp; commercial home services. Get a quote now and make your home perfect with our expert services!"
     property="twitter:image" />

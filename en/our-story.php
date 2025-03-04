@@ -393,7 +393,7 @@
           <div class="text-large">Have questions about our company or our services? We would love to speak with you.
           </div>
           <div class="button-with-link-container"><a data-w-id="1c4c104e-f1d7-0e68-0c0c-53a31fc79566"
-              href="tel:(800)942-6394" class="button grid w-inline-block">
+              href="tel:97143373565" class="button grid w-inline-block">
               <div id="w-node-_1c4c104e-f1d7-0e68-0c0c-53a31fc79567-87d0e3f9" data-is-ix2-target="1" class="lottie-icon"
                 data-w-id="1c4c104e-f1d7-0e68-0c0c-53a31fc79567" data-animation-type="lottie"
                 data-src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64dfb3137fe352abbc7a6249_lottieflow-chat-17-6-ffffff-easey.json"
@@ -410,14 +410,15 @@
       </div>
     </div>
   </div>
-  <div class="search-modal"><img
-      src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt=""
-      class="search-modal-cross" />
+  <div class="search-modal">
+    <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e121_icon-x.svg" alt="" class="search-modal-cross" />
     <div class="container-large">
       <h4 class="large-heading">Search</h4>
-      <form action="#" class="form-horizontal w-form"><input class="form-input w-input"
-          maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" /><input
-          type="submit" class="button form-horizontal-button w-button" value="Search" /></form>
+      <form action="https://purplebricks.ae/en/search" class="form-horizontal w-form">
+        <input class="form-input w-input"
+          maxlength="256" name="query" placeholder="Type Keywords" type="search" id="search" required="" />
+          <input type="submit" class="button form-horizontal-button w-button" value="Search" />
+        </form>
     </div>
   </div>
   <?php

@@ -141,7 +141,7 @@ include 'services-header.php';
                 <p>Say goodbye to the hassle of hiring multiple companies for your tank and container cleaning needs. Not only is this costly, but coordinating schedules with different service providers can be a challenge. With Purple Bricks Technical Services LLC, you can enjoy the convenience of making one call for all your tanks and container cleaning needs. We offer both residential and commercial tank cleaning services to ensure your tanks, water storage units, and containers are spotless and free from harmful contaminants. As homeowners and business owners ourselves, we understand how important it is to maintain clean and safe storage systems. We’re committed to delivering top-notch cleaning services that exceed your expectations.</p>
             </div>
             <div class="service-rich-text w-richtext">
-                <p><strong>When it’s time to clean your tanks or containers, Purple Bricks is ready to assist. Give us a call or </strong><a target="_blank" href="https://book.purplebricks.com/?sid=1619799557&amp;sid=1619799557"><strong>schedule your cleaning service online today!</strong></a></p>
+                <p><strong>When it’s time to clean your tanks or containers, Purple Bricks is ready to assist. Give us a call or </strong><a target="_blank" href="../contact-us.php"><strong>schedule your cleaning service online today!</strong></a></p>
             </div>
         </div>
         <div id="w-node-b7005c84-7de9-9f18-2ae2-2376c033a8b9-87d0e337" class="container-large">

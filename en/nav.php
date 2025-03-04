@@ -24,6 +24,7 @@
           <div class="navbar-right-contents">
             <nav role="navigation" class="nav-menu nav-menu-right-aligned w-nav-menu">
               <a href="index.php" aria-current="page" class="nav-link w-nav-link w--current">Home</a>
+              <a href="our-story.php" class="nav-link w-nav-link">Our Story</a>
               <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
                 <div class="nav-link w-dropdown-toggle">
                   <div>Services</div><img
@@ -34,7 +35,7 @@
                     <div class="service-wrapper mob-only w-dyn-list">
                       <div role="list" class="navigation-link-wrapper mob-only w-dyn-items">
                         <div role="listitem" class="w-dyn-item">
-                          <a href="services/handyman-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/other-handyman-services.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏗️ Maintenance & Renovation Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -44,7 +45,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="services/home-modification.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/other-home-modifications.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🔧 Mechanical, Electrical & Plumbing (MEP)</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -54,7 +55,7 @@
                           </a>
                         </div>
                         <div role="listitem" class="w-dyn-item">
-                          <a href="services/commercial-services.php"  class="navigation-link-l w-inline-block">
+                          <a href="services/cleaning.php"  class="navigation-link-l w-inline-block">
                             <div class="paragraph-regular">🏊‍♂️ Specialized Maintenance & Cleaning Services</div>
                             <div class="icon-small w-embed">
                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -131,20 +132,7 @@
                               </div>
                             </div>
                           </div>
-                          <!-- <div class="w-dyn-list">
-                            <div role="list" class="w-dyn-items">
-                              <div role="listitem" class="w-dyn-item">
-                                <div class="navigation-cta-wrapper">
-                                  <div>
-                                    <div class="subheading-large"><span>
-                                      <strong>🏗️ Home Maintenance & Renovation Services</strong></span></div>
-                                    <p class="paragraph-small">Your Trusted Home Repair &amp; Maintenance Specialist</p>
-                                  </div>
-                                  <a href="services/handyman-services.php" class="button w-button">View All Maintenance Services</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div> -->
+                          
                         </div>
                         <div data-w-tab="Home Modifications" class="w-tab-pane">
                           <div class="separator-div bottom menu">
@@ -314,17 +302,17 @@
                   </div>
                 </nav>
               </div>
-              <a href="locations.php" class="nav-link w-nav-link">Locations</a>
-              <a href="financing.php"  class="nav-link w-nav-link">Financing</a>
+              <!-- <a href="locations.php" class="nav-link w-nav-link">Locations</a>
+              <a href="financing.php"  class="nav-link w-nav-link">Financing</a> -->
               <a href="contact-us.php" class="nav-link w-nav-link">Contact Us</a>
               <div class="navbar-functions">
                 <a href="contact-us.php"  target="_blank" class="button nav w-inline-block">
                   <div>Book Now</div>
                 </a>
-                <a href="#" class="search-link w-inline-block">
+                <!-- <a href="https://purplebricks.ae/en/search" class="search-link w-inline-block">
                   <img src="https://cdn.prod.website-files.com/64c93da6f9f661cffa20dfee/64c93da6f9f661cffa20e129_icon-search.svg" alt="" class="search-link-icon" />
                   <div>Search</div>
-                </a>
+                </a> -->
               </div>
             </nav>
                 <div class="menu-button w-nav-button">
