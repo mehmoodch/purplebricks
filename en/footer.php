@@ -109,7 +109,8 @@
                 </div>
                 <div>
                   <h2 class="footer-menu-heading">Locations</h2>
-                  <div class="w-layout-grid menu-grid-vertical"><a href="#"  class="hover-link">Business Bay</a>
+                  <div class="w-layout-grid menu-grid-vertical">
+                  <a href="#"  class="hover-link">Business Bay</a>
                   <a href="#" class="hover-link">Al Barsha</a>
                   <a href="#" class="hover-link">Jumairah Village Circle</a>
                   <a href="#" class="hover-link">JLT</a>
